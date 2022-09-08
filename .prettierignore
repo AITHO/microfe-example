@@ -1,0 +1,5 @@
+.env
+dist
+test-report.xml
+coverage
+.vscode
